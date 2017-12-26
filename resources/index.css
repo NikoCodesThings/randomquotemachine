@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+}
+#quoteContainer{
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row{
+    margin: 0 auto;
+    max-width: 800px;
+    min-width: 800px;
+}
+.jumbotron{
+    text-align: center;
+}
